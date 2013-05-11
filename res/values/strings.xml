@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ANote</string>
+    <string name="title_note_detail">Note Detail</string>
+    <string name="menu_add">+</string>
+    <string name="title_activity_add_note">New Note</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Info</string>
+    <string name="title_section2">Date</string>
+    <string name="title_section3">Options</string>
+    
+    <string name="title_label">Title</string>
+    <string name="desc_label">Description</string>
+    <string name="type_label">Type</string>
+    <string name="not_timed_radio_label">Not Timed</string>
+    <string name="time_label">Time</string>
+    <string name="timed_radio_label">Timed</string>
+    <string name="date_label">Date</string>
+     <string name="color_label">Color</string>
+   <string name="confirm"></string>
+
+</resources>
